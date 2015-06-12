@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="1080" key="dialogWidth"/>
+		<item value="625" key="dialogHeight"/>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="textEntries">
+		</list>
+	</section>
+	<section name="ShowViewDialog">
+		<item value="403" key="DIALOG_WIDTH"/>
+		<item value="avic.actri.targetserver.tsmanagerview" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
+		<item value="42" key="DIALOG_Y_ORIGIN"/>
+		<item value="460" key="DIALOG_HEIGHT"/>
+		<item value="516" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Tahoma|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="com.edu.buaa.les.replay"/>
+			<item value="avic.actri.embedded.dev"/>
+		</list>
+	</section>
+</section>

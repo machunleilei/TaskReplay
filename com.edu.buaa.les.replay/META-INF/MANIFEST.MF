@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Replay
+Bundle-SymbolicName: com.edu.buaa.les.replay; singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.edu.buaa.les.replay.Activator
+Bundle-Vendor: EDU
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ avic.actri.cmdline.processor;bundle-version="1.0.0",
+ avic.actri.debug.core;bundle-version="1.0.0",
+ avic.actri.debug.ui;bundle-version="1.0.0",
+ avic.actri.loader;bundle-version="1.0.0",
+ avic.actri.make.core;bundle-version="1.0.0",
+ avic.actri.make.ui;bundle-version="1.0.0",
+ avic.actri.manager;bundle-version="1.0.0",
+ avic.actri.runtime.core;bundle-version="1.0.0",
+ avic.actri.runtime.ui;bundle-version="1.0.0",
+ avic.actri.targetserver;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: libs/com.edu.buaa.les.log.jar,
+ .
